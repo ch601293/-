@@ -4,7 +4,6 @@
       {
         "name": "default",
         "signingConfig": "default",
-        "compileSdkVersion": 10,
         "compatibleSdkVersion": 9,
         "runtimeOS": "HarmonyOS"
       }
@@ -18,9 +17,7 @@
       "targets": [
         {
           "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
+          "applyToProducts": ["default"]
         }
       ]
     }
