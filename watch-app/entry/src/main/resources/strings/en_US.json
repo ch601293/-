@@ -1,0 +1,63 @@
+{
+  "app_name": "Amap Navigation",
+  "app_description": "Display Amap navigation info on watch",
+
+  "nav_straight": "Go straight",
+  "nav_left_turn": "Turn left",
+  "nav_right_turn": "Turn right",
+  "nav_u_turn": "U-turn",
+  "nav_left_front": "Left front",
+  "nav_right_front": "Right front",
+  "nav_left_back": "Left back",
+  "nav_right_back": "Right back",
+  "nav_merge_left": "Keep left",
+  "nav_merge_right": "Keep right",
+  "nav_roundabout": "Enter roundabout",
+  "nav_exit": "Exit",
+  "nav_arrive": "Arrive at destination",
+  "nav_unknown": "Unknown",
+
+  "status_navigating": "Navigating",
+  "status_waiting": "Waiting for navigation...",
+  "status_ended": "Navigation ended",
+  "status_error": "Error",
+
+  "distance_meter": "m",
+  "distance_kilometer": "km",
+
+  "time_second": "sec",
+  "time_minute": "min",
+  "time_hour": "hr",
+
+  "remaining_prefix": "Remaining",
+  "next_road_prefix": "→",
+
+  "instruction_waiting": "Please start Amap navigation on phone",
+  "instruction_arrived": "Arrived at destination",
+
+  "permission_notification_title": "Notification Access Required",
+  "permission_notification_message": "Please grant notification access in settings",
+  "permission_bluetooth_title": "Bluetooth Permission Required",
+  "permission_bluetooth_message": "Bluetooth permission needed to connect to phone",
+
+  "error_no_permission": "Missing required permission",
+  "error_service_failed": "Service failed to start",
+  "error_connection_failed": "Connection failed",
+  "error_parse_failed": "Data parsing failed",
+
+  "toast_welcome": "Amap Navigation Watch Assistant started",
+  "toast_permission_grant": "Please grant notification access in settings",
+  "toast_connection_success": "Connected successfully",
+  "toast_connection_failed": "Connection failed",
+
+  "settings_title": "Settings",
+  "settings_auto_start": "Auto Start",
+  "settings_auto_start_desc": "Auto run when watch starts",
+  "settings_notification": "Notification Settings",
+  "settings_bluetooth": "Bluetooth Settings",
+  "settings_about": "About",
+
+  "about_version": "Version",
+  "about_developer": "Developer",
+  "about_copyright": "Copyright"
+}

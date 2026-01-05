@@ -1,0 +1,63 @@
+{
+  "app_name": "高德導航",
+  "app_description": "在手錶上顯示高德地圖導航資訊",
+
+  "nav_straight": "直行",
+  "nav_left_turn": "左轉",
+  "nav_right_turn": "右轉",
+  "nav_u_turn": "迴轉",
+  "nav_left_front": "左前方",
+  "nav_right_front": "右前方",
+  "nav_left_back": "左後方",
+  "nav_right_back": "右後方",
+  "nav_merge_left": "靠左行駛",
+  "nav_merge_right": "靠右行駛",
+  "nav_roundabout": "進入環島",
+  "nav_exit": "駛出",
+  "nav_arrive": "到達目的地",
+  "nav_unknown": "未知",
+
+  "status_navigating": "正在導航",
+  "status_waiting": "等待導航...",
+  "status_ended": "導航已結束",
+  "status_error": "錯誤",
+
+  "distance_meter": "米",
+  "distance_kilometer": "公里",
+
+  "time_second": "秒",
+  "time_minute": "分鐘",
+  "time_hour": "小時",
+
+  "remaining_prefix": "剩餘",
+  "next_road_prefix": "→",
+
+  "instruction_waiting": "請在手機上啟動高德地圖導航",
+  "instruction_arrived": "已到達目的地",
+
+  "permission_notification_title": "需要通知訪問權限",
+  "permission_notification_message": "請在設定中授予通知訪問權限",
+  "permission_bluetooth_title": "需要藍牙權限",
+  "permission_bluetooth_message": "需要藍牙權限以連接手機",
+
+  "error_no_permission": "缺少必要權限",
+  "error_service_failed": "服務啟動失敗",
+  "error_connection_failed": "連接失敗",
+  "error_parse_failed": "資料解析失敗",
+
+  "toast_welcome": "高德導航手錶助手已啟動",
+  "toast_permission_grant": "請在設定中授予通知訪問權限",
+  "toast_connection_success": "連接成功",
+  "toast_connection_failed": "連接失敗",
+
+  "settings_title": "設定",
+  "settings_auto_start": "自動啟動",
+  "settings_auto_start_desc": "手錶啟動時自動運行",
+  "settings_notification": "通知設定",
+  "settings_bluetooth": "藍牙設定",
+  "settings_about": "關於",
+
+  "about_version": "版本",
+  "about_developer": "開發者",
+  "about_copyright": "版權所有"
+}

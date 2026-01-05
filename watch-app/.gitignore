@@ -1,0 +1,46 @@
+# HarmonyOS / DevEco Studio
+.idea/
+.hvigor/
+build/
+node_modules/
+oh_modules/
+local.properties
+*.hap
+*.app
+
+# 编译输出
+*.o
+*.so
+*.a
+*.dylib
+*.class
+
+# 临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 密钥和签名文件
+*.keystore
+*.jks
+*.p12
+*.pem
+signing-configs/
+
+# 用户特定配置
+.vscode/
+*.iml
+
+# 测试覆盖率
+coverage/
+.nyc_output/
+
+# 缓存
+.cache/
+tmp/
+temp/
